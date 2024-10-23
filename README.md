@@ -1,6 +1,7 @@
 # simple_ui_app
 
 A new Flutter project.
+Information added
 
 ## Getting Started
 
